@@ -160,8 +160,12 @@
                     <div class="d-lg-flex align-items-center justify-content-between">
                         <div class="copyright">
                             <div class="d-sm-flex align-items-center justify-content-center">
-                                <div>Copyright © 2022 <a href="index.html" class="ttm-textcolor-white"> Dezily </a>.
-                                    All rights reserved
+                                <div>
+                                    All rights reserved © <span id="currentYear"></span>
+                                    <a href="index.html" class="ttm-textcolor-white">Dr. Design </a>
+                                </div>
+                                </br>
+                                <div> &nbsp;| Developed With <a href="https://ngt-tech.io/" class="ttm-textcolor-white">NGT Tech</a>.
                                 </div>
                             </div>
                         </div>

@@ -7,7 +7,7 @@
     <meta name="keywords" content="">
     <meta name="description" content=""/>
     <meta name="author" content="Dr. Design"/>
-    <title>Dr. Design</title>
+    <title>Dr. Design - Home</title>
     <?php include ('include/css.php');?>
 </head>
 <body>
@@ -825,7 +825,7 @@
                                              height="840" alt="image">
                                     </div><!-- featured-thumbnail end-->
                                     <div class="ttm-media-link">
-                                        <a href="project-details.html" class="ttm_link"><i class="ti ti-plus"></i></a>
+                                        <a href="case_study.php" class="ttm_link"><i class="ti ti-plus"></i></a>
                                     </div>
                                 </div><!-- ttm-box-view-overlay end-->
                             </div>
@@ -842,7 +842,7 @@
                                          width="840" height="840">
                                 </div><!-- featured-thumbnail end-->
                                 <div class="ttm-media-link">
-                                    <a href="project-details.html" class="ttm_link"><i class="ti ti-plus"></i></a>
+                                    <a href="case_study.php" class="ttm_link"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- ttm-box-view-overlay end-->
                         </div><!-- featured-imagebox-portfolio -->
@@ -858,7 +858,7 @@
                                          width="840" height="840">
                                 </div><!-- featured-thumbnail end-->
                                 <div class="ttm-media-link">
-                                    <a href="project-details.html" class="ttm_link"><i class="ti ti-plus"></i></a>
+                                    <a href="case_study.php" class="ttm_link"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- ttm-box-view-overlay end-->
                         </div><!-- featured-imagebox-portfolio -->
@@ -874,7 +874,7 @@
                                          width="840" height="840">
                                 </div><!-- featured-thumbnail end-->
                                 <div class="ttm-media-link">
-                                    <a href="project-details.html" class="ttm_link"><i class="ti ti-plus"></i></a>
+                                    <a href="case_study.php" class="ttm_link"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- ttm-box-view-overlay end-->
                         </div><!-- featured-imagebox-portfolio -->
@@ -890,7 +890,7 @@
                                          width="840" height="840">
                                 </div><!-- featured-thumbnail end-->
                                 <div class="ttm-media-link">
-                                    <a href="project-details.html" class="ttm_link"><i class="ti ti-plus"></i></a>
+                                    <a href="case_study.php" class="ttm_link"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- ttm-box-view-overlay end-->
                         </div><!-- featured-imagebox-portfolio -->

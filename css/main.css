@@ -1,53 +1,4 @@
-/**
-  * Name: Dezily
-  * Version: 2.0
-  * Author: ThemetechMount
-  * Author URI: http://www.themetechmount.com
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;family=Saira+Semi+Condensed:wght@100;200;300;400;500;600;700;800;900&amp;display=swap');
-
-/**
-  1. General
-     - Variables
-     - Extra-outer
-
-  2. Spacing
-
-  3. Color
-     - Skin-color, Skin-bg-color, Skin-border-color
-     - darkGrey-color, darkGrey-bg-color
-     - white-color, white-bg-color, white-border-color
-     - Grey-color, Grey-bg-color, grey-border-color
-
-  4. Pre-loader
-
-  5. SocialIcon / TooltipTop
-
-  6. Slick_dots/arrows
-
-  7. TopBar
-
-  8. Header
-     - SiteBrand(logo)
-     - SiteNavigation(Menu)
-     - side-menu
-
-  9. Footer
-     - FirstFooter
-     - SecondFooter
- 
-  10. GoTop BUtton
-  
-  11. Page-Title-Row
-
-  12. Inner-Pages
-
-**/
- 
-/* ===============================================
-    General
-------------------------*/
 
 /** Variables **/
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
@@ -3118,8 +3069,10 @@ ul.ttm-list.style2 li:before {
 
 /* Project Details */
 /*------------------------------------------------------------------------------*/
-.ttm-list.style4 li { margin-bottom: 20px; padding-bottom: 12px; }
-.ttm-list.style4 li:not(:last-child) { border-bottom: 1px solid #d6d6d6; }
+.ttm-list.style4 li {
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
 .ttm-list.style4 li h3{ margin-bottom: 0; font-size: 20px; line-height: 36px; }
 .ttm-list.style4 li p { margin-bottom: 0; }
 .ttm-btn-size-md.ttm-btn-shape-square.ttm-btn-style-border.ttm-btn-style-fill.ttm-btn-color-grey.style4
@@ -3649,3 +3602,7 @@ section.error-404 .page-content p{
     margin-bottom: 27px;
 }
 section.error-404 .page-header > div > div:last-child { margin-left: -103px; }
+
+.text-bold{
+    font-weight: bold;
+}

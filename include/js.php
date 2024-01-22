@@ -14,3 +14,7 @@
 <script src="js/jquery.twentytwenty.js"></script>
 <script src="js/circle-progress.min.js"></script>
 <script src="js/main.js"></script>
+<script>
+    // JavaScript code to dynamically update the current year
+    document.getElementById('currentYear').textContent = new Date().getFullYear();
+</script>
