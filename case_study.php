@@ -7,7 +7,7 @@
     <meta name="description" content="Dezily - Medical and Healthcare HTML Template"/>
     <meta name="author" content="https://www.themetechmount.com/"/>
     <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2"/>
-    <title>Dr. Design - Case Study</title>
+    <title>Dr. Therapy - Case Study</title>
 
     <?php include('include/css.php'); ?>
     <style>
