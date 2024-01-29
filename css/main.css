@@ -3070,8 +3070,11 @@ ul.ttm-list.style2 li:before {
 /* Project Details */
 /*------------------------------------------------------------------------------*/
 .ttm-list.style4 li {
-    margin-bottom: 0;
+    margin-bottom: 20px;
     padding-bottom: 10px;
+}
+.ttm-list.style4 li:not(:last-child) {
+    border-bottom: 1px solid #2a334e;
 }
 .ttm-list.style4 li h3{ margin-bottom: 0; font-size: 20px; line-height: 36px; }
 .ttm-list.style4 li p { margin-bottom: 0; }
@@ -3117,6 +3120,7 @@ button.ttm-btn-style-border.ttm-btn-color-grey:hover {
 /*------------------------------------------------------------------------------*/
 .introduction-section .spacing-16 { border-bottom: 1px solid #e2e2e2; }
 .personal-info h3 { font-size: 24px; line-height: 32px; margin-bottom: 12px; }
+
 
 .contact-wrapper li { margin-bottom: 20px; }
 .contact-wrapper li p { margin-bottom: 0px; }

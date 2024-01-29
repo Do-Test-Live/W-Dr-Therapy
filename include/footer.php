@@ -82,7 +82,7 @@
                             <div class="d-sm-flex align-items-center justify-content-center">
                                 <div>
                                     All rights reserved © <span id="currentYear"></span>
-                                    <a href="#" class="ttm-textcolor-white">Dr. Design </a>
+                                    <a href="#" class="ttm-textcolor-white">Dr. Therapy </a>
                                 </div>
                                 </br>
                                 <div> &nbsp;| Developed With <a href="https://ngt-tech.io/" class="ttm-textcolor-white">NGT Tech</a>.

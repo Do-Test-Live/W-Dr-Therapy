@@ -334,7 +334,7 @@
     justify-content: center;
     background: linear-gradient(90deg, transparent 25%, rgba(0,0,0,.7) 60%);
 }
-.banner_slider_1 .slide .slide__content--headings h2 { font-size: 64px; line-height: 74px; font-weight: 700; }
+.banner_slider_1 .slide .slide__content--headings h2 { font-size: 46px; line-height: 74px; font-weight: 700; }
 .banner_slider_1 .slide.s1 .slide__content--headings { padding: 36px 0;}
 .banner_slider_1 .slide.s2 .slide__content--headings { padding: 107px 0 25px 3px;}
 .banner_slider_1 .slide.s3 .slide__content--headings { padding: 100px 0 25px 3px;}
@@ -567,4 +567,57 @@
 .banner_slider.banner_slider_3.slick-slider .slick-next:hover {
     background-color: rgba(51, 214, 135, 1) !important;
 }
+.countdown{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
 
+
+
+.countdown > div{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    box-shadow: 1px 1px 15px rgba(0,0,0,0.25);
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+}
+.number {
+    font-weight: 500;
+    font-size: 44px;
+    color: #CAA78C;
+}
+
+div span:last-of-type{
+    font-size: 12px;
+}
+
+@media screen and (max-width:600px){
+    .countdown{
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        margin-top: 30px;
+    }
+    .countdown > div{
+        background-color: #fff;
+        width: 250px;
+        height: 60px;
+        margin: 0;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    div span:last-of-type{
+        font-size: 24px;
+        text-transform: uppercase;
+    }
+    .number {
+        font-size: 34px;
+    }
+}
