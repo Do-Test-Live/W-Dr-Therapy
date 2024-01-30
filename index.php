@@ -1443,6 +1443,92 @@
             </div>
         </section>
 
+        <section class="ttm-row faq-section bg-layer-equal-height clearfix ttm-bgcolor-grey">
+            <div class="container">
+                <!--row-->
+                <div class="row">
+                    <div class="col-lg-7 col-md-10 col-sm-12 m-auto">
+                        <!--section-title-->
+                        <div class="section-title title-style-center_text">
+                            <div class="title-header">
+                                <h3>FOR YOU REHAB – SPECIFIC TREATMENT FOR YOU</h3>
+                                <h2 class="title">慧理康健為你度身訂造香港物理治療療程</h2>
+                            </div>
+                        </div><!--section-title end-->
+                    </div>
+                </div><!--row end-->
+                <!--row-->
+                <div class="row pt-20 d-flex align-items-center justify-content-center">
+                    <div class="col-12 col-lg-4 col-md-6">
+                        <div class="featured-icon-box icon-align-top-content style1" style="height: 270px;">
+                            <div class="featured-content">
+                                <div class="featured-title">
+                                    <h3><a href="#" tabindex="0">運動創傷</a></h3>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>香港放工或週末時跑步、健身、做瑜珈、行山等等運動時往往會做成急性創傷(例如扭傷腳腕)，或因錯誤姿勢而產生慢性痛症，例如網球手、肩痛、足底筋膜炎等等，需要物理治療</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-md-6">
+                        <div class="featured-icon-box icon-align-top-content style1" style="height: 270px;">
+                            <div class="featured-content">
+                                <div class="featured-title">
+                                    <h3><a href="#" tabindex="0">上班族</a></h3>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>不論你在香港辦公室工作或是需要體力勞動，都有機會因為錯誤姿勢或長期勞損而造成頸痛、腰痛、肩痛、滑鼠手等等，都可能需要尋求香港痛症物理治療中心</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-md-6">
+                        <div class="featured-icon-box icon-align-top-content style1" style="height: 270px;">
+                            <div class="featured-content">
+                                <div class="featured-title">
+                                    <h3><a href="#" tabindex="0">脊椎側彎</a></h3>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>脊椎側彎未必有即時痛症問題，但長遠會引發痛楚，同時影響外觀，必須找香港物理治療師盡早處理</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-md-6">
+                        <div class="featured-icon-box icon-align-top-content style1" style="height: 270px;">
+                            <div class="featured-content">
+                                <div class="featured-title">
+                                    <h3><a href="#" tabindex="0">骨折或手術後病人</a></h3>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>完成關節置換手術，肌腱重建手術例如前十字韌帶、阿基里斯腱，或骨折後病人都需要回復關節幅度，手術疤痕</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-md-6">
+                        <div class="featured-icon-box icon-align-top-content style1" style="height: 270px;">
+                            <div class="featured-content">
+                                <div class="featured-title">
+                                    <h3><a href="#" tabindex="0">中年及老年人</a></h3>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>隨年紀增長，難免容易有五十肩、坐骨神經痛、膝頭痛等症狀，讓我們作為一間香港痛症物理治療中心 為你處理痛症，減慢退化</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- row end -->
+            </div>
+        </section>
+
+
+
+
+
+
     </div>
     <!--site-main end-->
 
