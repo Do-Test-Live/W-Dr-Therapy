@@ -25,22 +25,22 @@
                                     <nav class="main-menu menu-mobile" id="menu">
                                         <ul class="menu">
                                             <li class="">
-                                                <a href="index.php" class="mega-menu-link">主頁</a>
+                                                <a href="#home" class="mega-menu-link">主頁</a>
                                             </li>
                                             <li class="">
-                                                <a href="#" class="mega-menu-link">關於我們</a>
+                                                <a href="#about" class="mega-menu-link">關於我們</a>
                                             </li>
                                             <li class="">
-                                                <a href="#" class="mega-menu-link">衝擊波最新懶人包2024</a>
+                                                <a href="#instrument" class="mega-menu-link">儀器知多d2024</a>
                                             </li>
                                             <li class="">
-                                                <a href="#" class="mega-menu-link">痛症自救教室</a>
+                                                <a href="#pain_relief" class="mega-menu-link">痛症解救室</a>
                                             </li>
                                             <li class="">
-                                                <a href="#" class="mega-menu-link">REM痛症治療技術</a>
+                                                <a href="#mtreatment" class="mega-menu-link">3M治療術</a>
                                             </li>
                                             <li class="">
-                                                <a href="#" class="mega-menu-link">常見問題</a>
+                                                <a href="#faq" class="mega-menu-link">常見問題</a>
                                             </li>
                                         </ul>
                                     </nav><!-- menu end -->
@@ -52,8 +52,8 @@
                                         <i class="flaticon-phone-call-1"></i>
                                     </div>
                                     <div class="widget_content align-self-center">
-                                        <h3 class="widget_title">Whatsapp Now!</h3>
-                                        <p class="widget_desc"><a href="https://wa.me/message/TMW7VYOYJTQNH1" target="_blank">5602 8943</a></p>
+                                        <h3 class="widget_title">Whatsapp我們</h3>
+                                        <p class="widget_desc"><a href="https://api.whatsapp.com/send?phone=85268715252" target="_blank">6871 5252</a></p>
                                     </div>
                                 </div>
                                 <div class="widget_info d-flex flex-row align-items-center">
@@ -61,8 +61,8 @@
                                         <i class="flaticon-bubble-chat"></i>
                                     </div>
                                     <div class="widget_content align-self-center">
-                                        <h3 class="widget_title">Talk to us</h3>
-                                        <p class="widget_desc"><a href="mailto:info@foryourehab.com.hk">info@foryourehab.com.hk</a>
+                                        <h3 class="widget_title">聯絡我們</h3>
+                                        <p class="widget_desc"><a href="mailto:dr.therapyhk@gmail.com">dr.therapyhk@gmail.com</a>
                                         </p>
                                     </div>
                                 </div>
