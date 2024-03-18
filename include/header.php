@@ -31,10 +31,10 @@
                                                 <a href="#about" class="mega-menu-link">關於我們</a>
                                             </li>
                                             <li class="">
-                                                <a href="#instrument" class="mega-menu-link">儀器知多d2024</a>
+                                                <a href="#instrument" class="mega-menu-link">D 2024</a>
                                             </li>
                                             <li class="">
-                                                <a href="#pain_relief" class="mega-menu-link">痛症解救室</a>
+                                                <a href="#pain_relief" class="mega-menu-link">常見痛症處理</a>
                                             </li>
                                             <li class="">
                                                 <a href="#mtreatment" class="mega-menu-link">3M治療術</a>

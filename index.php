@@ -317,15 +317,15 @@
                     </div>
                 </div>
                 <div class="row slick_slider"
-                     data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "arrows":false, "dots":false, "autoplay":false, "infinite":true, "responsive": [{"breakpoint":1020,"settings":{"slidesToShow": 2}} , {"breakpoint":768,"settings":{"slidesToShow": 2}}, {"breakpoint":575,"settings":{"slidesToShow": 1}}]}'>
+                     data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "arrows":false, "dots":false, "autoplay":true, "infinite":true, "responsive": [{"breakpoint":1020,"settings":{"slidesToShow": 2}} , {"breakpoint":768,"settings":{"slidesToShow": 2}}, {"breakpoint":575,"settings":{"slidesToShow": 1}}]}'>
                     <div class="col-md-4">
                         <div class="featured-icon-box icon-align-top-content style1">
                             <div class="featured-icon">
-                                <img class="img-fluid" src="images/heart.svg" width="85" height="85" alt="">
+                                <img class="img-fluid" src="images/icons/1.png" width="85" height="85" alt="">
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h3><a href="#">衝擊波治療 Shockwave Therapy</a></h3>
+                                    <h3><a href="#">衝擊波治療 </br>Shockwave Therapy</a></h3>
                                 </div>
                                 <div class="featured-desc">
                                     <p>
@@ -338,17 +338,15 @@
                     <div class="col-md-4">
                         <div class="featured-icon-box icon-align-top-content style1">
                             <div class="featured-icon">
-                                <img class="img-fluid" src="images/cardiology.svg" width="85" height="85" alt="">
+                                <img class="img-fluid" src="images/icons/2.png" width="85" height="85" alt="">
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h3><a href="#">電磁波治療/磁療</a></h3>
+                                    <h3><br href="#">電磁波治療</br>Magnetic Stimulation Therapy</a></h3>
                                 </div>
                                 <div class="featured-desc">
                                     <p>
                                         電磁波肌肉刺激治療是一種利用電磁波來刺激肌肉以達到治療目的的物理治療方法。這種治療通常使用特定頻率和強度的電磁波，以刺激肌肉收縮和放鬆，從而改善肌肉功能、增強肌力、減輕肌肉緊張等。
-
-
                                     </p>
                                 </div>
                             </div>
@@ -357,11 +355,11 @@
                     <div class="col-md-4">
                         <div class="featured-icon-box icon-align-top-content style1">
                             <div class="featured-icon">
-                                <img class="img-fluid" src="images/healthcare.svg" width="85" height="85" alt="">
+                                <img class="img-fluid" src="images/icons/3.png" width="85" height="85" alt="">
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h3><a href="#">筋膜手法療法</a></h3>
+                                    <h3><a href="#">筋膜手法治療 </br>Manual Therapy</a></h3>
                                 </div>
                                 <div class="featured-desc">
                                     <p>
@@ -373,11 +371,11 @@
                     <div class="col-md-4">
                         <div class="featured-icon-box icon-align-top-content style1">
                             <div class="featured-icon">
-                                <img class="img-fluid" src="images/pain.svg" width="85" height="85" alt="">
+                                <img class="img-fluid" src="images/icons/4.png" width="85" height="85" alt="">
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h3><a href="#">超聲波治療</a></h3>
+                                    <h3><a href="#">超聲波治療 <br>Ultrasound Therapy</a></h3>
                                 </div>
                                 <div class="featured-desc">
                                     <p>高頻聲波深入組織，產生振動和熱能，有助增加血液流動及促進癒合</p>
@@ -388,11 +386,11 @@
                     <div class="col-md-4">
                         <div class="featured-icon-box icon-align-top-content style1">
                             <div class="featured-icon">
-                                <img class="img-fluid" src="images/pain.svg" width="85" height="85" alt="">
+                                <img class="img-fluid" src="images/icons/6.png" width="85" height="85" alt="">
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h3><a href="#">筋膜刀治療療程</a></h3>
+                                    <h3><a href="#">筋膜刀治療<br>IASTM Therapy</a></h3>
                                 </div>
                                 <div class="featured-desc">
                                     <p>利用特殊形狀的工具放鬆筋膜和軟組織，促進血液循環，減輕肌肉緊張</p>
@@ -403,11 +401,11 @@
                     <div class="col-md-4">
                         <div class="featured-icon-box icon-align-top-content style1">
                             <div class="featured-icon">
-                                <img class="img-fluid" src="images/pain.svg" width="85" height="85" alt="">
+                                <img class="img-fluid" src="images/icons/7.png" width="85" height="85" alt="">
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h3><a href="#">正骨復位</a></h3>
+                                    <h3><a href="#">關節鬆動術<br>Joint Manipulation</a></h3>
                                 </div>
                                 <div class="featured-desc">
                                     <p>復位及正骨令錯位的關節復原，鬆解關節，使其重新符合人體工學</p>
@@ -418,11 +416,11 @@
                     <div class="col-md-4">
                         <div class="featured-icon-box icon-align-top-content style1">
                             <div class="featured-icon">
-                                <img class="img-fluid" src="images/pain.svg" width="85" height="85" alt="">
+                                <img class="img-fluid" src="images/icons/8.png" width="85" height="85" alt="">
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h3><a href="#">干擾波電療 IFT</a></h3>
+                                    <h3><a href="#">關節鬆動術 <br>Joint Manipulation</a></h3>
                                 </div>
                                 <div class="featured-desc">
                                     <p>
@@ -434,11 +432,11 @@
                     <div class="col-md-4">
                         <div class="featured-icon-box icon-align-top-content style1">
                             <div class="featured-icon">
-                                <img class="img-fluid" src="images/pain.svg" width="85" height="85" alt="">
+                                <img class="img-fluid" src="images/icons/9.png" width="85" height="85" alt="">
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h3><a href="#">針灸治療 Acupuncture</a></h3>
+                                    <h3><a href="#">針灸治療<br>Acupunture</a></h3>
                                 </div>
                                 <div class="featured-desc">
                                     <p>調節身體，舒筋活血，亦能令中樞神經系統釋放安多酚，有助減輕疼痛，香港物理治療的針灸不同於中醫的針灸，例如彈弓手針灸穴位也不必在同一位置針灸。
@@ -450,11 +448,11 @@
                     <div class="col-md-4">
                         <div class="featured-icon-box icon-align-top-content style1">
                             <div class="featured-icon">
-                                <img class="img-fluid" src="images/pain.svg" width="85" height="85" alt="">
+                                <img class="img-fluid" src="images/icons/10.png" width="85" height="85" alt="">
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h3><a href="#">還有更多…</a></h3>
+                                    <h3><a href="#">干擾波電療<br>Interferential Therapy</a></h3>
                                 </div>
                                 <div class="featured-desc">
                                     <p>治療痛症的方法未能盡錄，選擇眾多，保證為你度身訂造</p>
@@ -480,7 +478,7 @@
                                 <h3>簡單、直接、有效的療法</h3>
                                 <h2 class="title">
                                     你的痛楚就是我們的痛楚。<br/>
-                                    消除你的痛症就是Dr Therapy的使命
+                                    消除你的痛症就是Dr Therapy的使命。
                                 </h2>
                             </div>
                         </div><!-- section title end -->
@@ -535,7 +533,7 @@
         <!--testimonial-section-end-->
 
         <!--health-cure-type-section-->
-        <section class="ttm-row health-cure-type-section bg-layer-equal-height ttm-bgcolor-grey clearfix">
+        <!--<section class="ttm-row health-cure-type-section bg-layer-equal-height ttm-bgcolor-grey clearfix">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -602,7 +600,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
         <!--health-cure-type-section-end-->
 
 
@@ -704,7 +702,7 @@
                                                 <h4 class="ttm-fid-inner">
                                                     價錢已包括衝擊波
                                                 </h4>
-                                                <h3 class="ttm-fid-title">聚焦式衝擊波，保證2000發，精準擊退痛症</h3>
+                                                <h3 class="ttm-fid-title">聚焦式衝擊波，保證1500發，精準擊退痛症</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -1157,14 +1155,10 @@
                                     </div>
                                 </div>
                                 <div class="entry-content">
-                                    <div class="ttm-box-desc-text">
+                                    <div>
                                         <p>
-                                            專業治療師幫助痛症患者準確尋找痛症根源，並引入國際認證的醫療儀器，結合經絡穴位、解剖學、生物力學及止痛生理科學，中西合璧，作為一間香港痛症物理治療中心，度身訂造個人化的去痛療程。透過Reconstruct
-                                            (重建組織)、Empower (自主強化)及 Multi-angulated approach (全方位護理)
-                                            幫你疏通經絡、放鬆筋膜、活化關節</p>
-                                    </div>
-                                    <div class="ttm-postbox-desc-footer">
-                                        <a class="" href="#" tabindex="0">了解更多REM痛症治療!</a>
+                                           3M是指Modality, Manual & Movement，意思是儀器、手法及運動。透過3M療法，大部份都市痛症問題及運動新傷舊患都能得到根治，過程中再揉合經絡穴位、解剖學、生物力學及止痛生理科學等不同理論，務求最大化痛症治療效果。
+                                        </p>
                                     </div>
                                 </div>
                             </div><!-- ttm-blog-classic-content end -->
