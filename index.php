@@ -1109,7 +1109,7 @@
                                     <p>我們的衝擊波療程不需要另外收費，而其他診所一般額外收取約$300-$500</p>
                                 </li>
                                 <li>
-                                    <h3>特設晚上時段到10PM</h3>
+                                    <h3>點解仲係10pm</h3>
                                     <p>我們深明香港人工作繁忙，難免較遲放工，因此特設晚上時段，為你服務</p>
                                 </li>
                                 <li>
@@ -1176,15 +1176,15 @@
                         <!--section-title-->
                         <div class="section-title title-style-center_text">
                             <div class="title-header">
-                                <h3>FOR YOU REHAB – SPECIFIC TREATMENT FOR YOU</h3>
-                                <h2 class="title">慧理康健為你度身訂造香港物理治療療程</h2>
+                                <h3> SPECIFIC TREATMENT FOR YOU</h3>
+                                <h2 class="title">為你度身訂造香港物理治療療程</h2>
                             </div>
                         </div><!--section-title end-->
                     </div>
                 </div><!--row end-->
                 <!--row-->
                 <div class="row pt-20 d-flex align-items-center justify-content-center">
-                    <div class="col-12 col-lg-4 col-md-6">
+                    <div class="col-12 col-md-6">
                         <div class="featured-icon-box icon-align-top-content style1" style="height: 270px;">
                             <div class="featured-content">
                                 <div class="featured-title">
@@ -1197,7 +1197,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-4 col-md-6">
+                    <div class="col-12 col-md-6">
                         <div class="featured-icon-box icon-align-top-content style1" style="height: 270px;">
                             <div class="featured-content">
                                 <div class="featured-title">
@@ -1210,7 +1210,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-4 col-md-6">
+                    <div class="col-12 col-md-6">
                         <div class="featured-icon-box icon-align-top-content style1" style="height: 270px;">
                             <div class="featured-content">
                                 <div class="featured-title">
@@ -1223,20 +1223,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-4 col-md-6">
-                        <div class="featured-icon-box icon-align-top-content style1" style="height: 270px;">
-                            <div class="featured-content">
-                                <div class="featured-title">
-                                    <h3><a href="#" tabindex="0">骨折或手術後病人</a></h3>
-                                </div>
-                                <div class="featured-desc">
-                                    <p>
-                                        完成關節置換手術，肌腱重建手術例如前十字韌帶、阿基里斯腱，或骨折後病人都需要回復關節幅度，手術疤痕</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-4 col-md-6">
+                    <div class="col-12 col-md-6">
                         <div class="featured-icon-box icon-align-top-content style1" style="height: 270px;">
                             <div class="featured-content">
                                 <div class="featured-title">
